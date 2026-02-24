@@ -33,4 +33,4 @@
 📫[Email](mailto:vandaoliveir@gmail.com)
 
 
-![](https://komarev.com/ghpvc/?username=VdeVanda&style=flat-square)
+![](https://komarev.com/ghpvc/?username=VdeVanda&base=1000&style=flat-square)
