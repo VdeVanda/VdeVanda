@@ -31,3 +31,5 @@
 ### Connect with Me
 💼 [LinkedIn](https://www.linkedin.com/in/vanda-oliveira-a996533/) | 
 📫[Email](mailto:vandaoliveir@gmail.com)
+
+<!-- [!](https://komarev.com/ghpvc/?username=VdeVanda) -->
