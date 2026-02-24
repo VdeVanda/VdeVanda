@@ -1,15 +1,10 @@
 # 👋 Hi there, I'm Vanda Oliveira
 
+
+### About Me
 * I'm an enthusiastic student at **42 Lisboa**
 * I've just reached **Milestone 4** 🎉
 * Next projects: **C++**, **Netpractice** and **Cub3D**
-
-
----
-
-### About Me
-* Experienced with: `C` , `Shell`, `Makefile` , `bash` , `git` , `linux` , `AI-driven workflows`
-* Currently focused on: **Low-level programming**, **UNIX systems**, and **Object-Oriented Programming (C++)**
 * Goal: To keep growing as a software developer
 
 ---
@@ -29,7 +24,7 @@
 ---
 
 ### Tech Stack
-`C` · `C++` · `bash` · `git` · `HTML` ·  `Linux` · `Make` . `Valgrind`. `Vim` . `VS Code` . `AI Automation`
+`C` · `bash` · `git` · `HTML` ·  `Linux` · `Make` . `Makefile`. `Shell` . `Valgrind`. `Vim` . `VS Code` . `Wordpress`
 
 ---
 
