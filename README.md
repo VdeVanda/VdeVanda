@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hi there, I'm Vanda Oliveira
 
 I'm a student at **42 Lisboa**, currently exploring the depths of software development.
