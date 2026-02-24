@@ -10,7 +10,7 @@ As a **former journalist with 20 years of experience in Communications**, I enjo
 
 ### 42 Projects
 | Project | Description | Status | Grade |
-| :- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- |
 | [**libft**](https://github.com/VdeVanda/42_LIBFT) | Reimplementation of common C library functions | ✅ Completed | 100% |
 | [**ft_printf**](https://github.com/VdeVanda/42_PRINTF) | Custom version of printf (variadic functions) | ✅ Completed | 100% |
 | [**get_next_line**](https://github.com/VdeVanda/42_GETNEXTLINE) | Read a line from a file descriptor | ✅ Completed | 100% |
@@ -18,8 +18,8 @@ As a **former journalist with 20 years of experience in Communications**, I enjo
 | [**so_long**](https://github.com/VdeVanda/42_SO_LONG) | 2D game using MinilibX graphics library | ✅ Completed | 100% |
 | [**minitalk**](https://github.com/VdeVanda/42_MINITALK) | Inter-process communication using UNIX signals | ✅ Completed | 115% |
 | [**push_swap**](https://github.com/VdeVanda/42_PUSH_SWAP) | Sorting algorithm using stack operations | ✅ Completed | 100% |
-| [**philosophers**[(https://github.com/VdeVanda/42_PHILOSOSPHERS) | Multithreading and synchronization (pthreads) | ✅ Completed | 100% |
-| [**minishell**[(https://github.com/VdeVanda/42_MINISHELL) | A minimal UNIX shell implementation | ✅ Completed | 101% |
+| [**philosophers**](https://github.com/VdeVanda/42_PHILOSOSPHERS) | Multithreading and synchronization (pthreads) | ✅ Completed | 100% |
+| [**minishell**](https://github.com/VdeVanda/42_MINISHELL) | A minimal UNIX shell implementation | ✅ Completed | 101% |
 | **CPP Modules** | Introduction to Object-Oriented Programming | 🚧 In progress | -- |
 
 ### Tech Stack
