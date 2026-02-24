@@ -1,7 +1,8 @@
 # 👋 Hi there, I'm Vanda Oliveira
 
-I'm a student at **42 Lisboa**, currently exploring the depths of software development.
-As a **former journalist with 20 years of experience in Communications**, I enjoy bridging the gap between strategic storytelling and low-level logic.
+### 🚀 Bridging the gap between storytelling and software engineering.
+
+With a solid background in communications and a daily role in the economic media landscape, I'm currently decoding the world of low-level programming. I believe that logic and creativity are two sides of the same coin.
 
 ### About Me
 * **Experienced with:** C, Shell, Git, Linux, and AI-driven workflows.
