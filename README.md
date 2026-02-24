@@ -1,14 +1,18 @@
 # 👋 Hi there, I'm Vanda Oliveira
 
-### 🚀 Bridging the gap between storytelling and software engineering.
+* I'm an enthusiastic student at **42 Lisboa**
+* I've just reached **Milestone 4** 🎉
+* Next projects: **C++**, **Netpractice** and **Cub3D**
 
-With a solid background in communications and a daily role in the economic media landscape, I'm currently decoding the world of low-level programming. I believe that logic and creativity are two sides of the same coin.
+
+---
 
 ### About Me
-* **Experienced with:** C, Shell, Git, Linux, and AI-driven workflows.
-* **Currently focused on:** Low-level programming, UNIX systems, and Object-Oriented Programming (C++).
-* **Goal:** To integrate software engineering principles into Corporate & Branded Content strategy and automation.
+* Experienced with: `C` , `Shell`, `Makefile` , `bash` , `git` , `linux` , `AI-driven workflows`
+* Currently focused on: **Low-level programming**, **UNIX systems**, and **Object-Oriented Programming (C++)**
+* Goal: To keep growing as a software developer
 
+---
 ### 42 Projects
 | Project | Description | Status | Grade |
 | :--- | :--- | :--- | :--- |
@@ -22,10 +26,13 @@ With a solid background in communications and a daily role in the economic media
 | [**philosophers**](https://github.com/VdeVanda/42_PHILOSOSPHERS) | Multithreading and synchronization (pthreads) | ✅ Completed | 100% |
 | [**minishell**](https://github.com/VdeVanda/42_MINISHELL) | A minimal UNIX shell implementation | ✅ Completed | 101% |
 | **CPP Modules** | Introduction to Object-Oriented Programming | 🚧 In progress | -- |
+---
 
 ### Tech Stack
-**C · C++ · bash · Git · Linux · Unix API · AI Automation**
+`C` · `C++` · `bash` · `git` · `HTML` ·  `Linux` · `Make` . `Valgrind`. `Vim` . `VS Code` . `AI Automation`
+
+---
 
 ### Connect with Me
-[💼 LinkedIn](https://www.linkedin.com/in/vanda-oliveira-a996533/) | 
-[📫 Email](mailto:vandaoliveir@gmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/vanda-oliveira-a996533/) | 
+📫[Email](mailto:vandaoliveir@gmail.com)
