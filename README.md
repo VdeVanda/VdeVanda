@@ -24,7 +24,7 @@
 ---
 
 ### Tech Stack
-`C` · `bash` · `git` · `HTML` ·  `Linux` · `Make` . `Makefile`. `Shell` . `Valgrind`. `Vim` . `VS Code` . `Wordpress`
+`C` · `bash` · `git` · `HTML` ·  `JavaScript` ·  `Linux` · `Make` . `Makefile`. `Markdown` .  `Shell` . `Valgrind`. `Vim` . `VS Code` . `Wordpress`
 
 ---
 
