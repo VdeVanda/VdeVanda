@@ -10,7 +10,7 @@
 
 ### 🎓 About Me
 
-- 🏫 Enthusiastic student at **42 Lisboa**
+- 🕹️ Enthusiastic student at **42 Lisboa**
 - 🎉 Just reached **Milestone 4** 
 - 🚀 Next challenges: **C++**, **Netpractice**, and **Cub3D**
 - 💻 Goal: Become a skilled software developer through continuous learning
@@ -63,6 +63,6 @@
 
 ---
 
-### Connect with Me
-💼 [LinkedIn](https://www.linkedin.com/in/vanda-oliveira-a996533/) | 
-📫[Email](mailto:vandaoliveir@gmail.com)
+### 📫 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/vanda-oliveira-a996533/) | 
+[Email](mailto:vandaoliveir@gmail.com)
