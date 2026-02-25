@@ -8,9 +8,9 @@
 
 ---
 
-### 🎓 About Me
+### 🪪 About Me 
 
-- 🕹️ Enthusiastic student at **42 Lisboa**
+- 🤸🏻‍♀️ Enthusiastic student at **42 Lisboa**
 - 🎉 Just reached **Milestone 4** 
 - 🚀 Next challenges: **C++**, **Netpractice**, and **Cub3D**
 - 💻 Goal: Become a skilled software developer through continuous learning
@@ -32,7 +32,17 @@
 | **CPP Modules** | Introduction to Object-Oriented Programming | 🚧 In progress | -- |
 ---
 
-## 🛠️ Tech Stack
+### 🎓 Exams & Milestones
+
+| Challenge | Grade |
+| :--- | :---: |
+| **Exam Rank 04** | ✅ **100%** | 
+| **Exam Rank 03** | ✅ **100%** |
+| **Exam Rank 02** | ✅ **100%** |
+
+---
+
+## 🛠️ Tech Stack 
 
 `C` · `bash` · `git` · `HTML` ·  `JavaScript` ·  `Linux` · `Make` . `Makefile`. `Markdown` .  `Shell` . `Valgrind`. `Vim` . `VS Code` . `Wordpress`
 
@@ -62,7 +72,8 @@
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
 ---
+### 👩🏻‍💻 Contact
 
-### 📫 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/vanda-oliveira-a996533/) | 
-[Email](mailto:vandaoliveir@gmail.com)
+💼[LinkedIn](https://www.linkedin.com/in/vanda-oliveira-a996533/) | 
+✉️[vandaoliveir@gmail.com](mailto:vandaoliveir@gmail.com) |
+🎧[Spotify](https://open.spotify.com/user/1198374271?si=GsIuibheQgq2ZDv0EWrxvA&nd=1&dlsi=741c2aa23a804523)
