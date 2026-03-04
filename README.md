@@ -30,6 +30,8 @@
 | [**philosophers**](https://github.com/VdeVanda/42_PHILOSOSPHERS) | Multithreading and synchronization (pthreads) | ✅ Completed | 100% |
 | [**minishell**](https://github.com/VdeVanda/42_MINISHELL) | A minimal UNIX shell implementation | ✅ Completed | 101% |
 | **CPP Modules** | Introduction to Object-Oriented Programming | 🚧 In progress | -- |
+| **Netpractice** | Analysis and correction of TCP/IP network routing | 🚧 In progress | -- |
+| **Cub3D** | 3D game engine using raycasting and MinilibX graphics library | 🚧 In progress | -- |
 ---
 
 ### 🎓 Exams & Milestones
