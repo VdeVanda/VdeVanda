@@ -44,7 +44,7 @@
 
 ---
 
-## 🛠️ Tech Stack 
+### 🛠️ Tech Stack 
 
 `C` · `bash` · `git` · `HTML` ·  `JavaScript` ·  `Linux` · `Make` . `Makefile`. `Markdown` .  `Shell` . `Valgrind`. `Vim` . `VS Code` . `Wordpress`
 
