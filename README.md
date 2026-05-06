@@ -12,7 +12,7 @@
 
 - 🤸🏻‍♀️ Enthusiastic student at **42 Lisboa**
 - 🎉 Just reached **Milestone 4** 
-- 🚀 Next challenges: **C++** and **Netpractice**
+- 🚀 Next challenge: **learn C++ from scratch**
 - 💻 Goal: Become a skilled software developer through continuous learning
 - 🎮 Passionate about problem-solving and clean code
 
