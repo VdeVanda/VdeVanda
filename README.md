@@ -31,7 +31,7 @@
 | [**minishell**](https://github.com/VdeVanda/42_MINISHELL) | A minimal UNIX shell implementation | ✅ Completed | 101% |
 | [**cub3D**](https://github.com/VdeVanda/42_CUB3D/) | 3D game engine using raycasting and MinilibX graphics library | ✅ Completed | 105% |
 | [**NetPractice**](https://github.com/VdeVanda/42_NETPRACTICE) | Analysis and correction of TCP/IP network routing | ✅ Completed | 100% |
-| **CPP Modules** | Introduction to Object-Oriented Programming | 🚧 In progress | -- |
+| [**CPP Modules**](https://github.com/VdeVanda/42_CPP) | Introduction to Object-Oriented Programming | 🚧 In progress | -- |
 ---
 
 ### 🎓 Exams & Milestones
