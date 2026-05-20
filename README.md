@@ -38,9 +38,9 @@
 
 | Challenge | Grade |
 | :--- | :---: |
-| **Exam Rank 02** | ✅ **100%** | 
-| **Exam Rank 03** | ✅ **100%** |
-| **Exam Rank 04** | ✅ **100%** |
+| [**Exam Rank 02**](https://github.com/VdeVanda/42_EXAM_RANK_02) | ✅ **100%** | 
+| [**Exam Rank 03**](https://github.com/VdeVanda/42_EXAM_RANK_03) | ✅ **100%** |
+| [**Exam Rank 04**](https://github.com/VdeVanda/42_EXAM_RANK_04) | ✅ **100%** |
 
 ---
 
