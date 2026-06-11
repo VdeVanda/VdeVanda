@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/42%20Lisboa-Student-00baff?style=flat-square" alt="42 Lisboa">
-  <img src="https://img.shields.io/badge/Milestone-4-brightgreen?style=flat-square" alt="Milestone 4">
+  <img src="https://img.shields.io/badge/Milestone-5-brightgreen?style=flat-square" alt="Milestone 5">
   <img src="https://img.shields.io/badge/Passion-Clean%20Code-red?style=flat-square" alt="Passion">
 </div>
 
@@ -11,8 +11,8 @@
 ### 🪪 About Me 
 
 - 🤸🏻‍♀️ Enthusiastic student at **42 Lisboa**
-- 🎉 Just reached **Milestone 4** 
-- 🚀 Next challenge: **learn C++ from scratch**
+- 🎉 Just reached **Milestone 5** 
+- 🚀 Next challenge: **Continue learning C++ from scratch**
 - 💻 Goal: Become a skilled software developer through continuous learning
 - 🎮 Passionate about problem-solving and clean code
 
@@ -44,6 +44,9 @@
 | [**Exam Rank 02**](https://github.com/VdeVanda/42_EXAM_RANK_02) | ✅ **100%** | 
 | [**Exam Rank 03**](https://github.com/VdeVanda/42_EXAM_RANK_03) | ✅ **100%** |
 | [**Exam Rank 04**](https://github.com/VdeVanda/42_EXAM_RANK_04) | ✅ **100%** |
+<!-- 
+| **Exam Rank 05** | 🚧 In progress |
+-->
 
 ---
 
