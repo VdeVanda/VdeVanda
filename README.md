@@ -52,7 +52,7 @@
 
 ### 🛠️ Tech Stack 
 
-`C` · `bash` · `git` · `HTML` ·  `JavaScript` ·  `Linux` · `Make` . `Makefile`. `Markdown` .  `Shell` . `Valgrind`. `Vim` . `VS Code` . `Wordpress`
+`C` · `C++` · `bash` · `git` · `HTML` ·  `JavaScript` ·  `Linux` · `Make` . `Makefile`. `Markdown` .  `Shell` . `Valgrind`. `Vim` . `VS Code` . `Wordpress`
 
 **Languages & Scripting:**
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
