@@ -32,6 +32,7 @@
 | [**cub3D**](https://github.com/VdeVanda/42_CUB3D/) | 3D game engine using raycasting and MinilibX graphics library | ✅ Completed | 105% |
 | [**NetPractice**](https://github.com/VdeVanda/42_NETPRACTICE) | Analysis and correction of TCP/IP network routing | ✅ Completed | 100% |
 | [**CPP00-04**](https://github.com/VdeVanda/42_CPP00-04) | Introduction to Object-Oriented Programming | ✅ Completed | 80%-90% |
+| [**CPP05-09**](https://github.com/VdeVanda/42_CPP05-09) | Introduction to Object-Oriented Programming | 🚧 In progress | -- |
 <!-- 
 | [**CPP Modules 05 - 09**](https://github.com/VdeVanda/42_CPP) | <details><summary><b>Introduction to Object-Oriented Programming</b> </summary><br><table><thead><tr><th>Module</th><th>Main Topic</th><th>Grade</th></tr></thead><tbody><tr><td><a href="https://github.com/VdeVanda/42_CPP/tree/main/CPP_00"><b>CPP 05</b></td><td>Exceptions (try, catch, throw)</td><td>--</td></tr><tr><td><b>CPP 06</b></td><td>Casting and type conversions</td><td>--</td></tr><tr><td><b>CPP 07</b></td><td>Templates</td><td>--</td></tr><tr><td><b>CPP 08</b></td><td>STL Containers (vector, map, stack, etc.)</td><td>--</td></tr><tr><td><b>CPP 09</b></td><td>Algorithms and architecture</td><td>--</td></tr></tbody></table></details> | 🚧 In progress | -- |  
 -->
